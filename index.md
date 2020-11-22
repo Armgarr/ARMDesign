@@ -1,3 +1,7 @@
+---
+title: Alexander McGarrity Portfolio
+---
+
 # ARM Design
 
 1. Home
@@ -26,3 +30,4 @@ A point and click adventure game following a paranormal detective as they try to
 [**Play Now on PC!**](https://armgarr.itch.io/detective-saga-the-creswin-widower)
 
 ## Contact
+If you haven any enqueries or are in need of a passionate Game Designer then please get in touch at [armcgarrity@gmail.com](mailto:armcgarrity@gmail.com)
