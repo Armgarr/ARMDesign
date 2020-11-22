@@ -11,6 +11,8 @@ I have an incredible passion for all aspects of Game Design and love to create f
 
 ## Experience
 
+<img align="centre" src="https://raw.githubusercontent.com/Armgarr/ARMDesign/main/argonauts_A2-poster-300dpi_horosotal_72.png">
+
 ## Throw Thyself
 A physics based 2.5D arena brawler for 2-4 players where you play as Gods and throw yourself at each other.</br>
 [**Play Now on PC!**](https://argonauts.itch.io/throw-thyself)
@@ -23,4 +25,4 @@ A short memory match game with a combo system that can be played on Google Cardb
 A point and click adventure game following a paranormal detective as they try to solve a mysterious murder.</br>
 [**Play Now on PC!**](https://armgarr.itch.io/detective-saga-the-creswin-widower)
 
-## Experience
+## Contact
