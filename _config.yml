@@ -1,2 +1,4 @@
+remote_theme: benbalter/retlab
+
 github:
   is_project_page: false
