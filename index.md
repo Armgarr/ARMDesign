@@ -7,7 +7,8 @@ title: Alexander McGarrity Portfolio
 ## Objective
 I have an incredible passion for mechanic/system design and love to create fun, interactive experiences. I am always looking to improve my skills as a designer and become the best I can be.
 
-I have strong production and team leading skills and excel in both leadership roles and within a team. My major aspiration is to become a Game Director.
+I have strong production and team leading skills and believe that every project regardless of size can be managed.  
+My major aspiration is to become a Game Director and create incredible games with incredible people.
 
 # Experience
 
