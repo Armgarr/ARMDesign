@@ -2,7 +2,7 @@
 title: Alexander McGarrity Portfolio
 ---
 
-# ARM Design
+# Alexander McGarrity
 
 1. Home
 2. Throw Thyself
