@@ -37,4 +37,4 @@ A 3D platformer that has you take control of Rolling Ball-Tron and try to collec
 <img align="centre" src="https://raw.githubusercontent.com/Armgarr/ARMDesign/main/RollWithItMenu.PNG">
 
 # Contact
-If you haven any enqueries or are in need of a passionate Game Designer then please get in touch at [armcgarrity@gmail.com](mailto:armcgarrity@gmail.com)
+If you haven any enqueries or are in need of a passionate Game Designer or Producer then please get in touch at [armcgarrity@gmail.com](mailto:armcgarrity@gmail.com)
