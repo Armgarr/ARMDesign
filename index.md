@@ -3,6 +3,7 @@ title: Alexander McGarrity Portfolio
 ---
 
 # Alexander McGarrity
+[**LinkedIn**](https://www.linkedin.com/in/alexandermcgarrity/) [**Twitter**](https://twitter.com/Armgarr) [**Youtube**](https://www.youtube.com/channel/UCcU--6eGsNC-sbY-DNhTWhw/)
 
 ## Objective
 I have an incredible passion for level, encounter, combat, and mechanic/system design, and love to create fun, interactive experiences. I am always looking to improve my skills as a designer and become the best I can be.
@@ -25,7 +26,7 @@ A physics based 2.5D arena brawler for 2-4 players where you play as Gods and th
 - VFX Artist
 - Producer
 
-## Marvelous Murgos' Carnival Of Wonders And Delights
+## Marvelous Murgos Carnival Of Wonders And Delights
 A short memory match game with a combo system that can be played on Google Cardboard or PC  
 [**Play Now on PC & Android!**](https://armgarr.itch.io/marvelous-murgos-carnival-of-wonders-and-delights)
 
