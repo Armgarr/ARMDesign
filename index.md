@@ -2,7 +2,7 @@
 title: Alexander McGarrity Portfolio
 ---
 
-# Alexander McGarrity
+# Alexander McGarrity Portfolio
 [**LinkedIn**](https://www.linkedin.com/in/alexandermcgarrity/) [**Twitter**](https://twitter.com/Armgarr) [**Youtube**](https://www.youtube.com/channel/UCcU--6eGsNC-sbY-DNhTWhw/)
 
 ## Objective
