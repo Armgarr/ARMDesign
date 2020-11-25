@@ -2,8 +2,9 @@
 title: Alexander McGarrity Portfolio
 ---
 
-# Alexander McGarrity Portfolio
 [**LinkedIn**](https://www.linkedin.com/in/alexandermcgarrity/) [**Twitter**](https://twitter.com/Armgarr) [**Youtube**](https://www.youtube.com/channel/UCcU--6eGsNC-sbY-DNhTWhw/)
+
+# Portfolio
 
 ## Objective
 Hi there! My name is Alex and I have an incredible passion for level, encounter, combat, and mechanic/system design, and love to create fun, interactive experiences. I am always looking to improve my skills as a designer and become the best I can be.
