@@ -1,5 +1,5 @@
 ---
-title: Alexander McGarrity Portfolio
+title: Alexander McGarrity
 ---
 
 [**LinkedIn**](https://www.linkedin.com/in/alexandermcgarrity/) [**Twitter**](https://twitter.com/Armgarr) [**Youtube**](https://www.youtube.com/channel/UCcU--6eGsNC-sbY-DNhTWhw/)
