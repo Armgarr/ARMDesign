@@ -71,6 +71,7 @@ html, body {
 .roles {
   width: 60%;
   margin: auto;
+  text-align: left;
 }
 .role-icon {
   background-color: #333;
